@@ -3,7 +3,7 @@ from scipy.special import exp10
 from scipy.special import comb
 from scipy.special import perm
 
-cb = cbrt([27, 64])
+cb = cbrt([27, 64])  
 exp = exp10([1,10])
 
 print(cb)
